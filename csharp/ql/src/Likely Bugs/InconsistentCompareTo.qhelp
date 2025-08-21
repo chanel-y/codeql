@@ -31,7 +31,7 @@ a1 equals a2: False</pre>
 </example>
 <references>
 
-  <li>MSDN: <a href="http://msdn.microsoft.com/en-us/library/system.icomparable.compareto.aspx">IComparable.CompareTo Method</a>.</li>
+  <li>Microsoft Learn: <a href="http://msdn.microsoft.com/en-us/library/system.icomparable.compareto.aspx">IComparable.CompareTo Method</a>.</li>
 
 </references>
 </qhelp>

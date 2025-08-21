@@ -36,7 +36,7 @@ To fix this problem, the <code>enable</code> attribute should be set to <code>fa
 <references>
 
 <li>
-MSDN:
+Microsoft Learn:
 <a href="https://msdn.microsoft.com/en-us/library/ms691327(v=vs.90).aspx">directoryBrowse element</a>.
 </li>
 

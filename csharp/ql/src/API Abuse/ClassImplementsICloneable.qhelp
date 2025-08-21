@@ -34,7 +34,7 @@ such, using <code>ICloneable</code> is widely discouraged.</p>
 </example>
 <references>
 
-  <li>MSDN, <a href="https://msdn.microsoft.com/en-us/library/system.icloneable.aspx">ICloneable Interface</a>.</li>
+  <li>Microsoft Learn, <a href="https://learn.microsoft.com/en-us/dotnet/api/system.icloneable">ICloneable Interface</a>.</li>
   <li>B Wagner, <em>Effective C#: 50 Specific Ways to Improve Your C#</em> (Second Edition), Item 32: Avoid ICloneable.</li>
 
 

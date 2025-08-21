@@ -10,7 +10,7 @@ every time a new pseudo-random number is required (for example, <code>new Random
 </p>
 
 <p> 
-According to MSDN:</p>
+According to Microsoft Learn:</p>
 
 <blockquote>
 <p>The default seed value is derived from the system clock and has finite resolution. As a result, different <code>Random</code> objects that are created 
@@ -50,7 +50,7 @@ is initialized with the same time value.
 
 
 <li>
-  MSDN:
+  Microsoft Learn:
   <a href="http://msdn.microsoft.com/en-us/library/h343ddh9.aspx">Random Constructor</a>.
 </li>
 

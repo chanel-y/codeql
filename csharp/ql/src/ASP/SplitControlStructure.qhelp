@@ -38,7 +38,7 @@ to read and maintain.</p>
 </example>
 
 <references>
-<li>MSDN: <a href="https://msdn.microsoft.com/en-us/library/ms973868.aspx">Introduction to ASP.NET and Web Forms</a>,
+<li>Microsoft Learn: <a href="https://msdn.microsoft.com/en-us/library/ms973868.aspx">Introduction to ASP.NET and Web Forms</a>,
 <a href="https://msdn.microsoft.com/en-us/library/fy30at8h(v=vs.100).aspx">ASP.NET Page Syntax</a>,
 <a href="https://msdn.microsoft.com/en-us/library/y6wb1a0e.aspx">ASP.NET User Controls</a>,
 <a href="https://msdn.microsoft.com/en-us/library/015103yb.aspx">ASP.NET Web Page Code Model</a>.</li>

@@ -30,7 +30,7 @@ by the attribute.</p>
 </example>
 <references>
 
-  <li>MSDN: <a href="https://msdn.microsoft.com/en-us/library/system.obsoleteattribute(v=vs.110).aspx">ObsoleteAttribute Class</a>.</li>
+  <li>Microsoft Learn: <a href="https://learn.microsoft.com/en-us/dotnet/api/system.obsoleteattribute">ObsoleteAttribute Class</a>.</li>
 
 
 </references>

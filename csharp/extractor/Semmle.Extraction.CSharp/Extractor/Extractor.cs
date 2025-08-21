@@ -322,7 +322,7 @@ namespace Semmle.Extraction.CSharp
         /// <returns>List of directories.</returns>
         private static IEnumerable<string> FixedReferencePaths(Microsoft.CodeAnalysis.CommandLineArguments args)
         {
-            // See https://msdn.microsoft.com/en-us/library/s5bac5fx.aspx
+            // See https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/advanced
             // on how csc resolves references. Basically,
             // 1) Current working directory. This is the directory from which the compiler is invoked.
             // 2) The common language runtime system directory.

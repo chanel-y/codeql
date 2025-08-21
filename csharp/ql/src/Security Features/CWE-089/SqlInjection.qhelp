@@ -44,6 +44,6 @@ because any special characters are not given any special treatment.</p>
 </example>
 
 <references>
-<li>MSDN: <a href="https://msdn.microsoft.com/en-us/library/ff648339.aspx">How To: Protect From SQL Injection in ASP.NET</a>.</li>
+<li>Microsoft Learn: <a href="https://msdn.microsoft.com/en-us/library/ff648339.aspx">How To: Protect From SQL Injection in ASP.NET</a>.</li>
 </references>
 </qhelp>

@@ -27,7 +27,7 @@ parameter.</p>
 </example>
 <references>
 
-  <li>MSDN: <a href="https://msdn.microsoft.com/en-us/library/bsc2ak47.aspx">Object.Equals Method (Object)</a>.</li>
+  <li>Microsoft Learn: <a href="https://learn.microsoft.com/en-us/dotnet/api/system.object.equals">Object.Equals Method (Object)</a>.</li>
 
 </references>
 </qhelp>

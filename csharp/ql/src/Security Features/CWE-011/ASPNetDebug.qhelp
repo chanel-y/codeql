@@ -41,11 +41,11 @@ To fix this problem, the 'debug' flag should be set to <code>false</code>, or re
 <references>
 
 <li>
-MSDN:
+Microsoft Learn:
 <a href="https://web.archive.org/web/20190919105353/https://blogs.msdn.microsoft.com/prashant_upadhyay/2011/07/14/why-debugfalse-in-asp-net-applications-in-production-environment/">Why debug=false in ASP.NET applications in production environment</a>.
 </li>
 <li>
-MSDN:
+Microsoft Learn:
 <a href="https://msdn.microsoft.com/en-us/library/e8z01xdh.aspx">How to: Enable Debugging for ASP.NET Applications</a>.
 </li>
 

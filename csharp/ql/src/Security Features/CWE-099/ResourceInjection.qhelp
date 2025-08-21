@@ -40,7 +40,7 @@ string and therefore prevents a malicious user modifying the meaning of the conn
 
 <references>
 <li>OWASP: <a href="https://www.owasp.org/index.php/Resource_Injection">Resource Injection</a>.</li>
-<li>MSDN: <a href="https://msdn.microsoft.com/en-us/library/ms254947(v=vs.80).aspx">Building Connection Strings</a>.</li>
-<li>MSDN: <a href="https://msdn.microsoft.com/en-us/library/89211k9b(VS.80).aspx">Securing Connection Strings</a>.</li>
+<li>Microsoft Learn: <a href="https://msdn.microsoft.com/en-us/library/ms254947(v=vs.80).aspx">Building Connection Strings</a>.</li>
+<li>Microsoft Learn: <a href="https://msdn.microsoft.com/en-us/library/89211k9b(VS.80).aspx">Securing Connection Strings</a>.</li>
 </references>
 </qhelp>

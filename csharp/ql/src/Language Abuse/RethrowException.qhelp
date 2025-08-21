@@ -32,8 +32,8 @@ stack trace containing the source of the error.
 </example>
 <references>
 
-	<li>MSDN: <a href="https://msdn.microsoft.com/en-us/library/ms173163.aspx">Creating and Throwing Exceptions (C# Programming Guide)</a>.</li>
-	<li>MSDN: <a href="https://msdn.microsoft.com/en-us/library/1ah5wsex.aspx">throw (C# Reference)</a>.</li>
+	<li>Microsoft Learn: <a href="https://msdn.microsoft.com/en-us/library/ms173163.aspx">Creating and Throwing Exceptions (C# Programming Guide)</a>.</li>
+	<li>Microsoft Learn: <a href="https://msdn.microsoft.com/en-us/library/1ah5wsex.aspx">throw (C# Reference)</a>.</li>
 
 </references>
 </qhelp>

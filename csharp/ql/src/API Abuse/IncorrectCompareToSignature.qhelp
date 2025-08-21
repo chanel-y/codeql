@@ -26,7 +26,7 @@ forgotten to add the corresponding <code>IComparable&lt;Bad&gt;</code> interface
 </example>
 <references>
 
-  <li>MSDN: <a href="https://msdn.microsoft.com/en-us/library/system.icomparable.aspx">IComparable Interface</a></li>
+  <li>Microsoft Learn: <a href="https://learn.microsoft.com/en-us/dotnet/api/system.icomparable">IComparable Interface</a></li>
 
 </references>
 </qhelp>

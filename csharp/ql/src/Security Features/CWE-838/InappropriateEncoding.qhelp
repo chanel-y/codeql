@@ -51,7 +51,7 @@ quotes. In the <code>Good</code> method, encoding is handled by using a SQL para
 </example>
 <references>
 
-<li>MSDN: <a href="https://msdn.microsoft.com/en-us/library/system.web.httputility(v=vs.110).aspx">HttpUtility Class</a>, <a href="https://msdn.microsoft.com/en-us/library/system.web.httpserverutility(v=vs.110).aspx">HttpServerUtility Class</a>, <a href="https://msdn.microsoft.com/en-us/library/system.net.webutility(v=vs.110).aspx">WebUtility Class</a>, <a href="https://msdn.microsoft.com/en-us/library/ff648339.aspx">How To: Protect From SQL Injection in ASP.NET</a>.</li>
+<li>Microsoft Learn: <a href="https://msdn.microsoft.com/en-us/library/system.web.httputility(v=vs.110).aspx">HttpUtility Class</a>, <a href="https://msdn.microsoft.com/en-us/library/system.web.httpserverutility(v=vs.110).aspx">HttpServerUtility Class</a>, <a href="https://msdn.microsoft.com/en-us/library/system.net.webutility(v=vs.110).aspx">WebUtility Class</a>, <a href="https://msdn.microsoft.com/en-us/library/ff648339.aspx">How To: Protect From SQL Injection in ASP.NET</a>.</li>
 
 </references>
 </qhelp>

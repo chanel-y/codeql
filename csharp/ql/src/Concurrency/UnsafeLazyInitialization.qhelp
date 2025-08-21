@@ -53,13 +53,13 @@ automatically thread-safe (Recommendation 3):</p>
 
 <references>
   <li>
-    MSDN: <a href="https://docs.microsoft.com/en-us/dotnet/api/system.lazy-1">Lazy&lt;T&gt; Class</a>.
+    Microsoft Learn: <a href="https://docs.microsoft.com/en-us/dotnet/api/system.lazy-1">Lazy&lt;T&gt; Class</a>.
   </li>
   <li>
-    MSDN: <a href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.lazyinitializer.ensureinitialized">LazyInitializer.EnsureInitialized Method</a>.
+    Microsoft Learn: <a href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.lazyinitializer.ensureinitialized">LazyInitializer.EnsureInitialized Method</a>.
   </li>
   <li>
-    MSDN: <a href="https://msdn.microsoft.com/en-us/library/ff650316.aspx">Implementing Singleton in C#</a>.
+    Microsoft Learn: <a href="https://msdn.microsoft.com/en-us/library/ff650316.aspx">Implementing Singleton in C#</a>.
   </li>
   <li>
     MSDN Magazine: <a href="https://msdn.microsoft.com/magazine/jj863136">The C# Memory Model in Theory and Practice</a>.

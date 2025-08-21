@@ -28,7 +28,7 @@ which makes it is more efficient.</p>
 
 <references>
 
-  <li>MSDN:
+  <li>Microsoft Learn:
     <a href="https://msdn.microsoft.com/en-us/library/kw5aaea4(v=vs.110).aspx">ContainsKey Method</a>,
     <a href="https://msdn.microsoft.com/en-us/library/bb347013(v=vs.110).aspx">TryGetValue Method</a>.
   </li>

@@ -25,7 +25,7 @@ In the revised example, both <code>stream1</code> and <code>stream2</code> are d
 </example>
 <references>
 
-  <li>MSDN: <a href="https://msdn.microsoft.com/en-us/library/system.idisposable.aspx">IDisposable Interface</a>.</li>
+  <li>Microsoft Learn: <a href="https://learn.microsoft.com/en-us/dotnet/api/system.idisposable">IDisposable Interface</a>.</li>
 
 </references>
 </qhelp>

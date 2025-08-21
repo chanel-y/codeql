@@ -36,7 +36,7 @@ The following example shows where to specify <code>requireSSL="true"</code> in a
 
 <references>
 
-<li>MSDN:
+<li>Microsoft Learn:
     <a href="https://msdn.microsoft.com/en-us/library/system.web.httpcookie.secure(v=vs.110).aspx">HttpCookie.Secure Property</a>,
     <a href="https://msdn.microsoft.com/en-us/library/system.web.security.formsauthentication.requiressl(v=vs.110).aspx">FormsAuthentication.RequireSSL Property</a>,
     <a href="https://msdn.microsoft.com/en-us/library/1d3t3c61(v=vs.100).aspx">forms Element for authentication</a>,

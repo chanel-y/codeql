@@ -31,7 +31,7 @@ In the revised example, the call to <code>ToString</code> is omitted, as
 </example>
 <references>
 
-<li>MSDN: <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/addition-operator">+ Operator</a>, <a href="https://msdn.microsoft.com/en-us/library/system.string.format(v=vs.110).aspx">String.Format method</a>.</li>
+<li>Microsoft Learn: <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/addition-operator">+ Operator</a>, <a href="https://msdn.microsoft.com/en-us/library/system.string.format(v=vs.110).aspx">String.Format method</a>.</li>
 
 </references>
 </qhelp>

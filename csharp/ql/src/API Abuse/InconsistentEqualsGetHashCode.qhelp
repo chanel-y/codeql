@@ -33,8 +33,8 @@ retrieving objects of such a class in a hashing data structure.
 
 <references>
 
-  <li>MSDN: <a href="https://msdn.microsoft.com/en-us/library/bsc2ak47.aspx">Object.Equals Method (Object)</a>,
-  <a href="https://msdn.microsoft.com/en-us/library/system.object.gethashcode.aspx">Object.GetHashCode Method</a>.</li>
+  <li>Microsoft Learn: <a href="https://learn.microsoft.com/en-us/dotnet/api/system.object.equals">Object.Equals Method (Object)</a>,
+  <a href="https://learn.microsoft.com/en-us/dotnet/api/system.object.gethashcode">Object.GetHashCode Method</a>.</li>
 
 </references>
 </qhelp>
