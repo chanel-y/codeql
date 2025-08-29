@@ -12,7 +12,7 @@ by the code.</p>
 
 <recommendation>
 <p>Consider updating the page to use the Code-Behind Page Model
-(see <a href="https://msdn.microsoft.com/en-us/library/015103yb.aspx">ASP.NET
+(see <a href="https://learn.microsoft.com/en-us/previous-versions/015103yb(v=vs.140)">ASP.NET
 Web Page Code Model for details</a>). In this model the markup and
 programming code are stored in separate files for easier maintenance.</p>
 </recommendation>

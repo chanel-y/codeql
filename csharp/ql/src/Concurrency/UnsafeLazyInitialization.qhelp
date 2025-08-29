@@ -59,13 +59,13 @@ automatically thread-safe (Recommendation 3):</p>
     Microsoft Learn: <a href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.lazyinitializer.ensureinitialized">LazyInitializer.EnsureInitialized Method</a>.
   </li>
   <li>
-    Microsoft Learn: <a href="https://msdn.microsoft.com/en-us/library/ff650316.aspx">Implementing Singleton in C#</a>.
+    Microsoft Learn: <a href="https://learn.microsoft.com/en-us/previous-versions/msp-n-p/ff650316(v=pandp.10)">Implementing Singleton in C#</a>.
   </li>
   <li>
-    MSDN Magazine: <a href="https://msdn.microsoft.com/magazine/jj863136">The C# Memory Model in Theory and Practice</a>.
+    MSDN Magazine: <a href="https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/december/csharp-the-csharp-memory-model-in-theory-and-practice">The C# Memory Model in Theory and Practice</a>.
   </li>
   <li>
-    MSDN, C# Reference: <a href="https://msdn.microsoft.com/en-us/library/x13ttww7.aspx">volatile</a>.
+    Microsoft Learn, C# Reference: <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/volatile">volatile</a>.
   </li>
   <li>
     Wikipedia: <a href="https://en.wikipedia.org/wiki/Double-checked_locking">Double-checked locking</a>.
